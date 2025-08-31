@@ -1,0 +1,62 @@
+[
+    {
+        "id": "rect_large",
+        "type": "rectangle",
+        "width": 300,
+        "height": 150,
+        "quantity": 2
+    },
+    {
+        "id": "rect_medium",
+        "type": "rectangle",
+        "width": 200,
+        "height": 100,
+        "quantity": 4
+    },
+    {
+        "id": "rect_small",
+        "type": "rectangle",
+        "width": 100,
+        "height": 50,
+        "quantity": 6
+    },
+    {
+        "id": "circle_large",
+        "type": "circle",
+        "radius": 80,
+        "quantity": 2
+    },
+    {
+        "id": "circle_medium",
+        "type": "circle",
+        "radius": 50,
+        "quantity": 3
+    },
+    {
+        "id": "circle_small",
+        "type": "circle",
+        "radius": 30,
+        "quantity": 5
+    },
+    {
+        "id": "triangle_large",
+        "type": "triangle",
+        "base": 120,
+        "height": 100,
+        "quantity": 2
+    },
+    {
+        "id": "triangle_medium",
+        "type": "triangle",
+        "base": 80,
+        "height": 70,
+        "quantity": 3
+    },
+    {
+        "id": "triangle_small",
+        "type": "triangle",
+        "base": 60,
+        "height": 40,
+        "quantity": 4
+    }
+]
